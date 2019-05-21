@@ -1,0 +1,4 @@
+flask
+redis
+werkzeug==0.14.1
+
